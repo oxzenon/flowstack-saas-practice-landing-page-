@@ -1,0 +1,7 @@
+# Course / teaching artifacts — keep local
+flowstack-saas-course.html
+flowstack-saas-course.md
+Flowstack-SaaS-Course.pdf
+
+# Just in case node_modules ever shows up at the root
+node_modules
